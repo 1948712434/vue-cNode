@@ -4,7 +4,7 @@
 
 网站演示链接：https://1948712434.github.io/vue-cNode/
 
-这是一个为了熟练运用这段时间所学的vuejs渐进式框架，该项目运用到了vue单文件组件，vue-router和vue-resource插件，vue-cli脚手架，以及element-ui框架；在页面布局方面主要是用了flex布局；再利用vueresource插件进行异步获取后台数据，在vue单文件组件中传输id获取详情页面，分页器是利用element-ui框架引入的。
+这是一个为了熟练运用这段时间所学的vuejs渐进式框架，该项目运用到了vue单文件组件，vue-router和vue-resource插件，vue-cli脚手架，以及element-ui框架；在页面布局方面主要是用了flex布局；再利用vue-resource插件进行异步获取后台数据，在vue单文件组件中传输id获取详情页面，分页器是利用element-ui框架引入的。
 
 ## 技术栈
 
