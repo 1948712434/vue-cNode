@@ -74,7 +74,7 @@
 			padding-left: 25px;
 			padding-right: 10px;
 			border-radius: 27px;
-			background-image: url(../assets/search.png);
+			background-image: url("https://o4j806krb.qnssl.com/public/images/search.e53b380a.hashed.png");
 			background-repeat: no-repeat;
 			background-position: 5px 4px;
 			background-color: #868686;
@@ -113,6 +113,7 @@
 			
 			.navbar-left-search{
 				margin-left: 0;
+				width: 100%;
 			}
 		}
 		
