@@ -112,7 +112,8 @@
 			}
 			
 			.navbar-left-search{
-				margin-left: 30px;
+				width:100%;
+				margin-left: 0;
 			}
 		}
 		
@@ -120,13 +121,6 @@
 			height: auto;
 			margin-top: 10px;
 			width: 100%;
-		}
-	}
-	
-	@media screen and (max-width:400px){
-		
-		.navbar-left .navbar-left-search{
-			margin-left: 0;
 		}
 	}	
 </style>
